@@ -22,3 +22,4 @@ _**5. ¿Con que fin se hizo esta web?**_
 
 Se utiliza con fines educativos y de entretenimiento.
 
+![Yahoo](https://user-images.githubusercontent.com/96111285/193110922-107377dc-3542-43c5-a9ff-76b44bdac9b3.png)
