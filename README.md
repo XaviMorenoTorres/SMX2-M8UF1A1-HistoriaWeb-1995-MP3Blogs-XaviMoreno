@@ -10,7 +10,7 @@ Fue lanzado el 25 de abril de 1996.
 
 ![Yahoo](https://github.com/XaviMorenoTorres/SMX2-M8UF1A1-HistoriaWeb-1995-Yahooligans-XaviMoreno/blob/main/download.jpg)
 
-_**3. ¿¿Para que edad esta pensado?**_
+_**3. ¿Para que edad esta pensado?**_
 
 Es apropiado para la edad de los niños de entre 4 y 12 años.
 
